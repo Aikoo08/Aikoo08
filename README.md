@@ -1,3 +1,4 @@
-- 👋 Hello! I’m Aiko, and I’m currently learning js. I also need a Coding/Dev partner for my Discord bot
-- Here's my discord Aiko#4148!
-- Thank you
+- 👋 Hello! I’m Aiko, and I’m currently learning js
+- 14 Years old
+- March 8, Pisces
+- Still dreaming about being a SD
